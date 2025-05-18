@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauloTuppy
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning HTML , CSS and JavaScript 
+- 👀 I’m interested in Software Developer in Block Chain
+- 🌱 I’m currently learning BlockChain Developer 
 - 💞️ I’m looking to collaborate open Source projects 
 - 📫 How to reach me  : paulotuppyjatoba@gmail.com
 - 😄 Pronouns: Tuppy
